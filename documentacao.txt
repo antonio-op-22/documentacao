@@ -4,3 +4,5 @@ Para mais informacoes pode contactar a linha de suporte durante esta fase de pro
 
 Este projecto consiste no desenvolvimente de uma aplicacao web que tem a finalidade de automatizar a certo grau o processo de gestao da empresa coscal nomeadamente nos seguintes seguimentos:
 contabilidade, recursos humanos, financas, produtos, vendas e faturacao
+
+Aprendendo git e github
