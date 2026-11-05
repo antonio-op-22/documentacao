@@ -1,3 +1,6 @@
 Documentacao ofical do projecto coscal-odoo
 Esta documentacao e aplicavel a versao 1.1.0 do projecto coscal-odoo
 Para mais informacoes pode contactar a linha de suporte durante esta fase de producao que vai terminar em 09/12/2026
+
+Este projecto consiste no desenvolvimente de uma aplicacao web que tem a finalidade de automatizar a certo grau o processo de gestao da empresa coscal nomeadamente nos seguintes seguimentos:
+contabilidade, recursos humanos, financas, produtos, vendas e faturacao
