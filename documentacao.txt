@@ -1,0 +1,2 @@
+Documentacao ofical do projecto coscal-odoo
+Esta documentacao e aplicavel a versao 1.1.0 do projecto coscal-odoo
